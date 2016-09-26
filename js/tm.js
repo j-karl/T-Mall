@@ -396,7 +396,7 @@ window.onload = function(){
 
 	// for(var i=0;i<list1.length;i++){
 	// 	list1[i].index = i;
-		
+
 	// 	list1[i].onmouseover = function(){
 	// 		if(i==0){
 	// 				list1[0].style.background="#F7A945";
@@ -426,7 +426,7 @@ window.onload = function(){
 	// 	list1[i].onmouseout = function(){
 	// 		list1[this.index].style.background="#626262";
 	// 	}
-		
+
 	// }
 	//按需加载
 	// console.log(qinzi[0].offsetTop);
